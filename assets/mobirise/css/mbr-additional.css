@@ -22,6 +22,7 @@ body {
 .display-1 {
   font-family: 'Josefin Sans', sans-serif;
   font-size: 4.25rem;
+  font-display: swap;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.8rem;
@@ -29,6 +30,7 @@ body {
 .display-2 {
   font-family: 'Josefin Sans', sans-serif;
   font-size: 3rem;
+  font-display: swap;
 }
 .display-2 > .mbr-iconfont {
   font-size: 4.8rem;
@@ -36,6 +38,7 @@ body {
 .display-4 {
   font-family: 'Josefin Sans', sans-serif;
   font-size: 1rem;
+  font-display: swap;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.6rem;
@@ -43,6 +46,7 @@ body {
 .display-5 {
   font-family: 'Josefin Sans', sans-serif;
   font-size: 1.5rem;
+  font-display: swap;
 }
 .display-5 > .mbr-iconfont {
   font-size: 2.4rem;
@@ -50,6 +54,7 @@ body {
 .display-7 {
   font-family: 'Josefin Sans', sans-serif;
   font-size: 1rem;
+  font-display: swap;
 }
 .display-7 > .mbr-iconfont {
   font-size: 1.6rem;
